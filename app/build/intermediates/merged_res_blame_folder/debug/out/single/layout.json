@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jhi\\.gradle\\daemon\\7.3.3\\com.example.samplelibrary.app-mergeDebugResources-25:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jhi\\.gradle\\daemon\\7.3.3\\com.example.samplelibrary.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.samplelibrary.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "com.example.samplelibrary.app-main-28:/layout/activity_main.xml"
+    }
+]
